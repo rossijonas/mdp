@@ -20,5 +20,5 @@ jobs:
         go-version: ">=1.18.6"
 
     - name: Compile
-      run: go build
+      run: go build -v
 
