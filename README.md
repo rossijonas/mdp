@@ -2,6 +2,9 @@
 
 *<p align="center">A Markdown Preview CLI Tool Built in Go</p>*
 
+[![Actions Status](https://github.com/rossijonas/mdp/workflows/Test/badge.svg)](https://github.com/rossijonas/mdp/actions)
+[![Actions Status](https://github.com/rossijonas/mdp/workflows/Build/badge.svg)](https://github.com/rossijonas/mdp/actions)
+
 ## About
 
 Use the `mdp` CLI tool to preview a Markdown file in the browser.
@@ -14,7 +17,7 @@ Use the `mdp` CLI tool to preview a Markdown file in the browser.
 
 - Support custom templates.
 
-- `mdp` uses [bluemonday](/tmp/mdp4030496412.html) to sanitize the Markdown content creating a safe HTML file.
+- `mdp` uses [bluemonday](https://github.com/microcosm-cc/bluemonday) to sanitize the Markdown content creating a safe HTML file.
 
 _(This is an exercise from the book "Powerful Command-Line Applications in Go".)_
 
