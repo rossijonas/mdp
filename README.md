@@ -40,13 +40,27 @@ _(This is an exercise from the book "Powerful Command-Line Applications in Go".)
 
 ## Usage
 
-### Preview a Markdown file in the browser:
+### Options:
+
+```
+$ mdp
+Usage of mdp:
+  -file string
+        Markdown file to preview
+  -s    Skip auto-preview
+  -t string
+        Alternate template name
+```
+
+### Examples:
+
+#### Preview a Markdown file in the browser:
 
 ```
 $ mdp -file MyFile.md
 ```
 
-### Convert a Markdown file into an HTML file:
+#### Convert a Markdown file into an HTML file:
 
 Using the `-s` (skip preview) flag, `mdp` generates an HTML file from the given Markdown file and saves the output file in `/tmp` directory.
 
@@ -55,7 +69,7 @@ $ mdp -s -file MyFile.md
 /tmp/mdp4030496412.html  # the HTML file path is printed to the terminal
 ```
 
-### Use a custom template file to generate the HTML:
+#### Use a custom template file to generate the HTML:
 
 A custom template file may be used to provide custom styles and layouts. 
 
