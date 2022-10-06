@@ -78,6 +78,8 @@ The content of the markdown file must be defined in the template file inside de 
 
 ## Backlog
 
+- Add example Gif to README file.
+
 - Add test case testing an alternate template file.
 
 - Update the default template by adding another field that shows the name of the file being previewed.
