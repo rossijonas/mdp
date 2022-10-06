@@ -2,11 +2,15 @@
 
 *<p align="center">A Markdown Preview CLI Tool Built in Go</p>*
 
-<p align="center">[![Actions Status](https://github.com/rossijonas/mdp/workflows/Test/badge.svg)](https://github.com/rossijonas/mdp/actions)[![Actions Status](https://github.com/rossijonas/mdp/workflows/Build/badge.svg)](https://github.com/rossijonas/mdp/actions)</p>
 
 ## About
 
 Use the `mdp` CLI tool to preview a Markdown file in the browser.
+
+### Status:
+
+[![Actions Status](https://github.com/rossijonas/mdp/workflows/Test/badge.svg)](https://github.com/rossijonas/mdp/actions)
+[![Actions Status](https://github.com/rossijonas/mdp/workflows/Build/badge.svg)](https://github.com/rossijonas/mdp/actions)
 
 ### Features:
 
