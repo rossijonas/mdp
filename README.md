@@ -2,8 +2,7 @@
 
 *<p align="center">A Markdown Preview CLI Tool Built in Go</p>*
 
-[![Actions Status](https://github.com/rossijonas/mdp/workflows/Test/badge.svg)](https://github.com/rossijonas/mdp/actions)
-[![Actions Status](https://github.com/rossijonas/mdp/workflows/Build/badge.svg)](https://github.com/rossijonas/mdp/actions)
+<p align="center">[![Actions Status](https://github.com/rossijonas/mdp/workflows/Test/badge.svg)](https://github.com/rossijonas/mdp/actions)[![Actions Status](https://github.com/rossijonas/mdp/workflows/Build/badge.svg)](https://github.com/rossijonas/mdp/actions)</p>
 
 ## About
 
