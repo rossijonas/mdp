@@ -103,3 +103,4 @@ The content of the markdown file must be defined in the template file inside de 
 
 - Allow the user to specify a default template using an environment variable.
 
+- Allow the user to provide the input Markdown via STDIN.
