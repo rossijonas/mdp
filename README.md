@@ -22,8 +22,6 @@ Use the `mdp` CLI tool to preview a Markdown file in the browser.
 
 - `mdp` uses [bluemonday](https://github.com/microcosm-cc/bluemonday) to sanitize the Markdown content creating a safe HTML file.
 
-_(This is an exercise from the book "Powerful Command-Line Applications in Go".)_
-
 ## Installation
 
 ### Requirements:
@@ -104,3 +102,7 @@ The content of the markdown file must be defined in the template file inside de 
 - Allow the user to specify a default template using an environment variable.
 
 - Allow the user to provide the input Markdown via STDIN.
+
+## Credits
+
+_This is an exercise from the book "Powerful Command-Line Applications in Go", but it may differ from the original exercise._
